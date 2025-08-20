@@ -55,3 +55,7 @@ Join our community of developers creating universal apps.
 
 
 ![](./assets/images/ingredientees.png)
+
+
+Fernando Joaquim Mota
+Kathleen Carolini Silva Miranda
